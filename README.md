@@ -2,6 +2,12 @@
 
 ## How to Write More Pythonic Code
 
+📽 [Recording](https://www.youtube.com/watch?v=HU9u70RfhIw)
+
+---
+
+# Table of Contents
+
 - [🐍 Python: Tips & Tricks](#-python-tips--tricks)
   - [How to Write More Pythonic Code](#how-to-write-more-pythonic-code)
 - [🪷 Zen of Python](#-zen-of-python)
